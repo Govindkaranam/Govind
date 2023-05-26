@@ -1,2 +1,1 @@
-# Govind
-pancreatic_cancer_disease_detection
+#pancreatic_cancer_disease_detection
