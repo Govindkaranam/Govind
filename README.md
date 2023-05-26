@@ -1,2 +1,2 @@
 # Govind
-NumberPlate Detection
+pancreatic_cancer_disease_detection
